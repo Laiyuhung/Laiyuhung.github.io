@@ -1,12 +1,13 @@
 // Firebase 配置
 const firebaseConfig = {
-    apiKey: "YOUR_API_KEY",
-    authDomain: "YOUR_PROJECT_ID.firebaseapp.com",
-    databaseURL: "https://YOUR_PROJECT_ID.firebaseio.com",
-    projectId: "YOUR_PROJECT_ID",
-    storageBucket: "YOUR_PROJECT_ID.appspot.com",
-    messagingSenderId: "YOUR_MESSAGING_SENDER_ID",
-    appId: "YOUR_APP_ID"
+    apiKey: "AIzaSyCcrHtb-gKrUdLHvWVvnPRIqpVKf3P4JeY",
+    authDomain: "cpblfantasy-70e21.firebaseapp.com",
+    databaseURL: "https://cpblfantasy-70e21-default-rtdb.firebaseio.com",
+    projectId: "cpblfantasy-70e21",
+    storageBucket: "cpblfantasy-70e21.firebasestorage.app",
+    messagingSenderId: "634776615098",
+    appId: "1:634776615098:web:a0d6a3c137381828df6a83",
+    measurementId: "G-NG8WCGE7XH"
   };
   
   // 初始化 Firebase
