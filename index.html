@@ -3,14 +3,17 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>JSON 模擬資料庫</title>
+  <title>Firebase Realtime Database</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <h1>JSON 模擬資料庫</h1>
+  <h1>Firebase Realtime Database 測試</h1>
+  <button id="add-data">新增資料</button>
   <button id="load-data">載入資料</button>
   <ul id="data-list"></ul>
 
+  <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.6.10/firebase-database.js"></script>
   <script src="scripts/app.js"></script>
 </body>
 </html>
